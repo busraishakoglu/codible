@@ -92,7 +92,7 @@ npm test
 
 > 👩‍💻 **Büşra İ.**  
 > Senior Frontend Developer  
-> [LinkedIn Profilin] | [GitHub Profilin]
+> https://www.linkedin.com/in/busraishakoglu | https://github.com/busraishakoglu
 
 ---
 
