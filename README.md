@@ -82,9 +82,6 @@ npm test
 - [x] Karanlık/aydınlık mod geçişi
 - [x] Görev güncelleme (Edit Task)
 - [x] Görev filtreleme ve arama
-- [ ] Undo/Redo desteği (yakında!)
-- [ ] LocalStorage entegrasyonu (persist veriler)
-- [ ] PWA desteği (offline çalıştırmak)
 
 ---
 
